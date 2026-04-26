@@ -3,8 +3,6 @@
 
 Este proyecto es una herramienta de visualización de datos de alto rendimiento para el sector financiero, que permite el análisis de KPIs en tiempo real mediante una arquitectura moderna.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=Financial+Analytics+Dashboard+Preview)
-
 ## 🛠️ Stack Tecnológico
 
 - **Frontend:** Next.js 15 (App Router), TypeScript, Tailwind CSS, Framer Motion.
